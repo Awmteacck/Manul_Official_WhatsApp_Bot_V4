@@ -12,24 +12,24 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: @manul official" //ur yt chanel name
-global.socialm = "GitHub: manulofficial7" //ur github or insta name
+global.ytname = "YT: @awmtea polythene" //ur yt chanel name
+global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Manul Official WhatsApp Bot V4' //ur bot name
-global.ownernumber = '94742274855' //ur owner number
-global.ownername = '©Mr Cyber Manul Official' //ur owner name
-global.websitex = "https://github.com/manulofficial7"
+global.botname = 'Mr Bot' //ur bot name
+global.ownernumber = '918787651195' //ur owner number
+global.ownername = 'Awmtea Polythene' //ur owner name
+global.websitex = "https://github.com/Awmteacck"
 global.wagc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
 global.themeemoji = '🪀'
-global.wm = "Manu Bot Inc."
+global.wm = "Mr Bot ."
 global.botscript = 'https://github.com/Manul_Official_WhatsApp_Bot_V4' //script link
 global.packname = "Sticker By"
-global.author = "©Manul Official\n\n+94742274855"
-global.creator = "94742274855@s.whatsapp.net"
+global.author = "©Awmtea Polythene\n\n+918787651195"
+global.creator = "918787651195@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94742274855"] // Premium User
+global.premium = ["918787651195"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -37,7 +37,7 @@ global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = true //welcome/left in groups
+global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
